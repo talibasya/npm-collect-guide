@@ -1,0 +1,1 @@
+console.log("test1 _ new test");function helloFun(o){console.log("hello "+o)}helloFun("bob");helloFun("Mike");var t=20;var sum=0;for(var i=0;i<t;i++){sum+=i}console.log("total sum = ",sum);
